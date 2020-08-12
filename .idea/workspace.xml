@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,16 +28,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework\tupian" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
     </key>
   </component>
   <component name="RunManager">
@@ -60,7 +64,8 @@
       <workItem from="1597109011430" duration="3406000" />
       <workItem from="1597113013733" duration="128000" />
       <workItem from="1597113417505" duration="408000" />
-      <workItem from="1597113868599" duration="15148000" />
+      <workItem from="1597113868599" duration="15764000" />
+      <workItem from="1597186751472" duration="11884000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,21 @@
+h2{
+    color:red;
+   width: 200px;
+    border: green 4px solid;
+    margin-left: 500px;
+
+}
+h4{
+    color:green;
+    border: red 4px dashed;
+    width: 70px;
+}
+p{
+    color:blue;
+    border: aqua 4px solid;
+
+}
+.a{
+    margin-left: 520px;
+    width: 150px;
+}
