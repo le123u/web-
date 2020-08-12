@@ -27,16 +27,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day02/homework/tupian" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day02\homework\tupian" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\imgs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day02\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework\tupian" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01" />
@@ -65,7 +67,7 @@
       <workItem from="1597113013733" duration="128000" />
       <workItem from="1597113417505" duration="408000" />
       <workItem from="1597113868599" duration="15764000" />
-      <workItem from="1597186751472" duration="11884000" />
+      <workItem from="1597186751472" duration="20610000" />
     </task>
     <servers />
   </component>
@@ -77,10 +79,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597114919021" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1597136542788">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1597207332020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597136542788" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597207332020" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597133485207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
