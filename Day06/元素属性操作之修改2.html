@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+    <button id="a">aaaa</button>
+    <button id="b">bbbb</button>
+</div>
+<img src="../imgs/aaaa.jpg" alt="">
+<script>
+    var aaaa = document.getElementById("a")
+    var bbbb = document.getElementById("b")
+    var ccc = document.querySelector('img')
+
+    aaaa.onclick = function () {
+        ccc.src = '../imgs/aaaa.jpg'
+        ccc.title = 'aaaa'
+
+    }
+    bbbb.onclick = function () {
+        ccc.src = '../imgs/bb.jpg'
+        ccc.title = 'bbbb'
+
+    }
+
+</script>
+</body>
+</html>

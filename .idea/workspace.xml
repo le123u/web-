@@ -28,24 +28,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\imgs" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day05" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\homework\tupian" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day05\JS" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\xaiomi" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day02\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework\tupian" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\imgs" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day05" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\homework\tupian" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\xaiomi" />
     </key>
   </component>
   <component name="RunManager">
@@ -70,7 +70,7 @@
       <workItem from="1597361914533" duration="2185000" />
       <workItem from="1597369899841" duration="23329000" />
       <workItem from="1597449870317" duration="21887000" />
-      <workItem from="1597624092218" duration="13358000" />
+      <workItem from="1597624092218" duration="15296000" />
     </task>
     <servers />
   </component>
