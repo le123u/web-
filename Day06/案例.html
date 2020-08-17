@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p,div{
+            width: 300px;
+            height: 30px;
+            line-height: 30px;
+            color: white;
+            background-color: skyblue;
+        }
+    </style>
+</head>
+<body>
+<p></p>
+<button>显示当前系统的时间</button>
+<div>某个时间</div>
+<script>
+    var button = document.querySelector('button')
+    var div = document.querySelector('div')
+    button.onclick = function () {
+        div.innerHTML = getDate();
+    }
+    function getDate() {
+        var date = new Date()
+        var year = date.getFullYear()
+        var month = date.getMonth()+1
+        var day = date.getDate()
+        return "今天是: "+year+"-"+month+"-"+day
+    }
+
+    var p = document.querySelector('p')
+    p.innerHTML = getDate()
+</script>
+</body>
+</html>
