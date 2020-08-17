@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,33 +28,30 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day02/homework/tupian" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day02\homework\tupian" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\imgs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day05\JS" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\xaiomi" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day02\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework" />
       <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01\homework\tupian" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day01" />
-      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\imgs" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day05" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\homework\tupian" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04" />
+      <recent name="C:\Users\Liu\Documents\GitHub\web_qianduan\Day04\xaiomi" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Demo01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_qianduan/Day01/Demo01.html" useBuiltInWebServerPort="true">
+    <configuration name="Demo01.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/web_qianduan/Day01/Demo01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.Demo01.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +65,11 @@
       <workItem from="1597113013733" duration="128000" />
       <workItem from="1597113417505" duration="408000" />
       <workItem from="1597113868599" duration="15764000" />
-      <workItem from="1597186751472" duration="20610000" />
+      <workItem from="1597186751472" duration="22193000" />
+      <workItem from="1597279449921" duration="27432000" />
+      <workItem from="1597361914533" duration="2185000" />
+      <workItem from="1597369899841" duration="23329000" />
+      <workItem from="1597449870317" duration="21887000" />
     </task>
     <servers />
   </component>
@@ -75,17 +77,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="SettingsEditor" timestamp="1597114919021">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597453307983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597114919021" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597453307983" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1597453474071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597453474071" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1597207332020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597207332020" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597133485207">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597301378538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597133485207" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597301378538" />
   </component>
 </project>
