@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <button id="lbxx">蜡笔小新</button>
+    <button id="hou">小猴子</button>
+
+</div>
+
+<img src="../imgs/labixiaoxin.jpg" alt="" width="300px" height="200px" title="蜡笔小新">
+<script>
+    // 获取元素
+    var lbxx = document.getElementById('lbxx')
+    var hou = document.getElementById('hou')
+    var img = document.querySelector('img')
+    // 注册事件
+    lbxx.onclick = function () {
+        img.src = '../imgs/labixiaoxin.jpg'
+        img.title = '蜡笔小新'
+
+    }
+    hou.onclick = function () {
+        img.src = '../imgs/hou.jpg'
+        img.title = '小猴子'
+    }
+</script>
+
+</body>
+</html>
