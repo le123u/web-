@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // 计算1-num累加和
+        var result = caculateNum(10)
+        alert(result)
+        function caculateNum(num){
+            var sum = 0;
+            for (var i = 1; i <= num ; i++) {
+                sum += i;
+            }
+            console.log(sum)
+            return sum
+        }
+
+        // 给定两个数  num1,num2 求这两个数最大值
+        var maxmax = numberMax(1,2)
+        alert(maxmax)
+        function numberMax(num1,num2) {
+            var max = num1>num2 ? num1:num2;
+            return max
+        }
+        var fn = function(num){
+            console.log(num)
+        }
+        fn(100)
+    </script>
+</head>
+<body>
+
+</body>
+</html>
