@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 150px;
+            height: 150px;
+            background-color:blue;
+        }
+        .change {
+            background-color: green;
+            color: #fff;
+            font-size: 25px;
+            margin-top: 100px;
+        }
+        .first{
+
+        }
+    </style>
+</head>
+<body>
+<div class = "first">文本</div>
+<script>
+    var test = document.querySelector('div')
+    var flag = 0
+    test.onclick = function () {
+        if (flag == 0){
+            // this.style.backgroundColor='green'
+            // this.style.marginTop='150px'
+            // this.style.color='white'
+            // this.style.fontSize='25px'
+
+            // 将 change样式塞入  <div class="first">文本</div>中
+            // 修改修改 className 更改样式
+            this.className = 'first change';
+            flag = 1
+        }else{
+            // this.style.backgroundColor='blue'
+            // this.style.marginTop=0
+            // this.style.color='black'
+            // this.style.fontSize='16px'
+
+            this.className = 'first';
+            flag = 0
+        }
+
+    }
+</script>
+</body>
+</html>
