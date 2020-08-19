@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<ul>
+    <li>123</li>
+</ul>
+<script>
+    // 创建节点值元素节点
+    var li = document.createElement('li')
+    // 添加节点
+    var ul = document.querySelector('ul')
+    ul.appendChild(li)
+
+    // 添加节点
+    // node.insertBefore(chile,指定元素)
+    var lili = document.createElement('li')
+    ul.insertBefore(lili,ul.children[0])
+
+
+</script>
+</body>
+</html>

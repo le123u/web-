@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button>开关灯</button>
+<script>
+    var button = document.querySelector('button')
+    var flag = 0
+    button.onclick = function () {
+        if (flag == 0){
+            document.body.style.backgroundColor = "black"
+            flag = 1
+        }else{
+            document.body.style.backgroundColor = "white"
+            flag = 0
+        }
+
+    }
+</script>
+</body>
+</html>
