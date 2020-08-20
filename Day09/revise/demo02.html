@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // innerHTML拼接效率测试
+    function fn(){
+        var date1 = new Date()
+        var str = ''
+        for (var i = 0; i < 1000; i++) {
+            document.body.innerHTML += "<div style='width:100px;height:2px;border: 1px solid blue'><div>"
+        }
+
+        var date2 = new Date()
+        console.log(date2-date1)
+    }
+    fn();
+</script>
+</body>
+</html>

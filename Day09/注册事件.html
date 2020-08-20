@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button>传统注册事件</button>
+<button>方法监听注册事件</button>
+<script>
+    var btn = document.querySelectorAll('button')
+    // 传统 唯一
+    btn[0].onclick = function () {
+        alert('hehe')
+    }
+    btn[0].onclick = function () {
+        alert('hahe')
+    }
+    // 方法监听
+    btn[1].addEventListener('click',function () {
+        alert('ahaha')
+    })
+    btn[1].addEventListener('click',function () {
+        alert('ahahhhhhhhha')
+    })
+</script>
+</body>
+</html>
